@@ -1,6 +1,6 @@
-**Resource Utilization Maximization from Excel Data Analytics Tools                                  
+Resource Utilization Maximization from Excel Data Analytics Tools                                  
 (Excel Time Series Simulation)
-**
+
 
 Researched a local car repair shop that was not utilizing all their hydraulic lifts on top of a long waiting line/time for the cars to be taken in for service because the owners thought it would not be profitable to hire more staff to start using all of their hydraulic lifts. 
 Technique – Dynamic Time-Series Forecasting and Simulation
